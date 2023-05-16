@@ -60,7 +60,7 @@
             // 
             // btnAdminLogin
             // 
-            this.btnAdminLogin.Location = new System.Drawing.Point(215, 172);
+            this.btnAdminLogin.Location = new System.Drawing.Point(257, 209);
             this.btnAdminLogin.Name = "btnAdminLogin";
             this.btnAdminLogin.Size = new System.Drawing.Size(68, 23);
             this.btnAdminLogin.TabIndex = 6;
@@ -85,7 +85,7 @@
             // 
             // tbAdminPass
             // 
-            this.tbAdminPass.Location = new System.Drawing.Point(215, 135);
+            this.tbAdminPass.Location = new System.Drawing.Point(215, 141);
             this.tbAdminPass.Name = "tbAdminPass";
             this.tbAdminPass.PasswordChar = '*';
             this.tbAdminPass.Size = new System.Drawing.Size(149, 22);
